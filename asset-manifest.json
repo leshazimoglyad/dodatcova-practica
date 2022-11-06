@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leshazimoglyad/dodatcova-practica.git/static/css/main.7acaea2f.css",
+    "main.js": "/leshazimoglyad/dodatcova-practica.git/static/js/main.07d3183d.js",
+    "index.html": "/leshazimoglyad/dodatcova-practica.git/index.html",
+    "main.7acaea2f.css.map": "/leshazimoglyad/dodatcova-practica.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/leshazimoglyad/dodatcova-practica.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
